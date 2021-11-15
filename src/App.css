@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');body
+{
+  background-image: url(../src/brew2.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+th,td,tr
+{
+ text-align: center;
+ border: 1px solid black;
+ padding: 20px;
+ width: 200px;
+ margin: 20px;
+ font-size: 20px;
+ font-family: 'Akronim', cursive;
+ 
+
+}
+.button,.button2
+{
+  border-radius: 20px;
+  margin: 20px;
+  background:orange;
+  font-size: 20px;
+font-family: 'Gemunu Libre', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
